@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django database and migrations cache
+db.sqlite3
+db.sqlite3-journal
+
+# Environment and local settings
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Editor and IDE folders
+.vscode/
+.idea/
+
+# Archives and temporary files
+*.zip
+*.log
+
+# Assignment documents
+*.pdf
